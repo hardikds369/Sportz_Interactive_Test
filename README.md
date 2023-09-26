@@ -1,3 +1,4 @@
 # Sportz_Interactive_Test
 This is the Test Assignment of Sportz Interactive.
-Author: Hardik Shah
+<br>
+Author - Hardik Shah
